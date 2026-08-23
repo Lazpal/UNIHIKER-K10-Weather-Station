@@ -1,6 +1,9 @@
   /*
     UNIHIKER K10 Weather Station for Mind+ Arduino C++ mode.
     A: refresh outside weather now   Day/night theme: room light sensor
+
+    This work is licensed under the Copyright License 4.0.
+    --        Copyright Lazaros Paliamaxidis      --
   */
 
   #include "unihiker_k10.h"
@@ -844,3 +847,11 @@
     drawDashboard();
     delay(2000);
   }
+
+
+  /*
+    UNIHIKER K10 Weather Station for Mind+ Arduino C++ mode.
+
+    This work is licensed under the Copyright License 4.0.
+    --        Copyright Lazaros Paliamaxidis      --
+  */
