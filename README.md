@@ -3,6 +3,8 @@
 An advanced, feature-rich IoT Weather Station built for the **UNIHIKER K10** (ESP32-S3) in Mind+ / Arduino C++ mode. It integrates automatic IP-based geolocation, real-time outdoor weather forecasting via Open-Meteo, indoor climate monitoring, dynamic Day/Night UI themes, custom animated weather icons, audio alerts, and camera-based Wi-Fi QR code setup.
 
 ---
+[img](https://github.com/Lazpal/UNIHIKER-K10-Weather-Station/blob/main/Gemini_Generated_Image_w3ud2lw3ud2lw3ud.jpg?raw=true)
+---
 
 ## 🌟 Key Features
 
